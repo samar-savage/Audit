@@ -1,0 +1,30 @@
+------------------------------Slide2----------------------
+general introduction
+as a final stage of my engineering studies, i'm supposed to go under a six months training.
+i have been offered the opportunity to be an intern at Draxlmaier where i will be working on the graduation project of "Audit / Assessment Dashboard ".
+-------------Slide3/4----------------
+in the next slides i wil be demonstrating the planning of the project.
+first of all i will  start by a brief presentation of the project, second i ll move to the problematic and solution, later on i'll cover the adopted methodolgy and used tools and finally a conclusion.
+---------------slide5/6
+okay , i'm gonna start by the project presentation , first thing first ,Presentation of the host organization.
+Ranked among the Top 100,DRÄXLMAIER is considered a leader German company specilazed in automobile suppliers 
+--------slide7--------------------------------------
+located at more than 65 sites in over 20 countries. Founded in Germany in 1958 and Tunisia in 1974, dealing with the most ackowldged automobile manufacturers such as Audi, BMW, Jaguar, Mercedes-Benz, etc.
+
+At Draxlmaier , Values such as innovation , sustainability , market and Customer orientation are considered as priority, therefore , some challenges might come along. which leads as to our problematic.
+-------------------slide8---------------------------
+in order to fulfill a satisfying customer-povider experience, Draxlmaeir always refers to certain norms to meet the expectations of the clients.
+however those norms are constantly evolving and changing and comes in different forms(excel files, csv files ,pdf...). as a result it is hard to get a good reading with all the data out there and here it creats a conflict.
+so what's the solution?
+------------------slide9---------------------
+the creation of "Audit / Assessment Dashboard" ,The idea behind it is to create a Cyber security Compliance Audit Graphical user Interface Guidelines through the creation of a dynamic dashboard which going to facilitate the conduct of the audit.
+
+s--------------------------slide10/11-----------------
+As for the adopted Methodology, i'm considering using CRisp DM.
+this methodology goes through 6 phases , first :Business Understanding,here i shall have a deepened understanding about the project background and brainstorming.second , data understanding where i will get to discover the nature of the Data i'm about to work with, third , data preparation with all the data cleansing and structuring , fourth data modeling where i get to create the schema and establish the relatonships between the generated tables.fifth , evaluation , here i shall review my generated work and finally deployment.
+with a possibiltiy of loop back in steps two , four and five.
+------------slides12/13/14------------
+the tools to be used in this project are MS office, PBI (considered one of the most fast growing reporting tools over time) with possibility to integrate further tools as the project evolves
+---------------------------------slides 15-------------------------------------
+
+now after that i have conducted a brief planning of the expected life circle of the project, its realisationseems to be much clearly doable , thanks to the adopted methotodly of crisp Dm , it is easier to loop back to previous stages to make amendments if required, aspiring to deliver an outcome that would fulfill the requested requirement in the shortest delays possible.

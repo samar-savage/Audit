@@ -1,0 +1,23 @@
+as a final stage of my engineering studies, i'm supposed to go under a six months training.
+i had the opportunity to be an intern at Draxlmaier where i will be working on the graduation project of "Audit / Assessment Dashboard ".
+yet before jumping into further details about the project, i would like to start with a brief introduction about myself
+my name is samar jberi , i'm a third year engineerign student at esprit BUsines Intelligence speciality.
+during my academic years , there were some experiences that are more remarkable than others, i can name being one of the main organizers in the african student festival ,being an active member of Enactus esprit ICT and giving a hand at the animal shelter because it made me feel like i belong to something bigger,something that actually influenced lives.
+that's the kind of experience i'm looking forward to have here as a trainee at draxlmaeir.
+i like this position and i didn't hesitate to apply for it as i saw myself doing it by reflecting the experiences i had over the recent years  such as my Summer internship that covered the topic of the study of the evoltion of esprit over time basing on social networks where i have scrapped data from social networks with python , studied the nature of data with text mining  and finally transform the data , creating relationships and final dynamic dashboard with power BI.
+aside from that i have worked on other projects both individual and collective where i had the chance to use other Technologies such as Talend , Tableau ,SQl and 
+Machine Learning
+eventually i was glad to get in and i have felt very welcomed and guided by my supervisors as they made sure to giv me a smooth transition into a new work envinronment.
+after having a brain storming about the project,i believe it is doable , in this slide i will be demonstrating my vision about the main  mile stones:
+first stage , Business understanding , this stage can take up to ... and it is meant to grasp enough understing and vsiion about the project
+second stage , data understanding, at the moment we still have some technical dilemma about providing the input but we are workign on it.
+third stage , data prepraration, here i will be workign on preparing data that will eb using for the rest of the process
+fourth stage, modeling , with the data i have prepared i will set the relationships between the tables follwing an adequat architecture.
+fifth phase , evaluation, here i will  be evaluating the work to see if it is meeting the expected requieremnt 
+sixth phase, deployment , where i will be creating my final dashboard 
+ofcourse there are always some conflicts that might come up to surface , but i will try to meet the expected scheduled deadlines.
+Hoping that this could be a benficial experience for both parts.
+
+
+
+
