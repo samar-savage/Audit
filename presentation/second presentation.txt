@@ -1,0 +1,14 @@
+Good eeeninf everyone , im here to present the progress of the project Audit web app.
+so after getting into further details about the project and it is specifics and studying its doability. we have decided to follow the scrum methodoly.
+ with Ismail sekri as the product owner , Jerbi oussema as scrum master and i samar jberi as the developper.
+as for the product backlog , we had several meetings to specifiy the main requirement 
+and we symmed it into this list Dynamic Norms update. 
+Creation of  smart search engine.
+Advanced search filters.
+User access management.
+Manage the approval of adding new documents
+now it is up for us to choosethe sprint in which we believe it is the most import it to kick in with.
+every sprint goes through 4 essential phases : the planning , the build, the test and the review.
+by the end of each sprint we ca produce a shippable deliverable.
+we chose to go with Dynamic Norms update as our first sprint..
+and 
